@@ -1,1 +1,1 @@
-# facemask_mp
+# facemask_detection_miniproject
